@@ -1,0 +1,66 @@
+/*for header*/
+
+#header-nav {
+  background-color: orange;
+  border-radius: 0;
+  border: 0;
+  width: 100%;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/*for container*/
+
+h2 {
+  border-bottom: 15px;
+  text-align: center;
+}
+
+.contain {
+  background-color: gray;
+  margin: 15px;
+  border: 1px solid black;
+}
+
+.title {
+  text-align: center;
+  padding: 5px;
+  float: right;
+  width: 100px;
+  border: 1px solid black;
+  margin: 0px 0px 10px 0px;
+  position: relative;
+  top: -1px;
+  right: -1px;
+}
+
+#title1{
+  background-color: red;
+}
+
+#title2{
+  background-color: yellow;
+}
+
+#title3{
+  background-color: orange;
+}
+
+section p {
+  clear: both;
+  margin: 10px;
+
+}
+
